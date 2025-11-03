@@ -1,0 +1,109 @@
+{
+  "hiphop": [
+    {
+      "id": 1,
+      "title": "Mere Gully Mein",
+      "artist": "DIVINE & Naezy",
+      "song": "https://drive.google.com/file/d/1diMmfBSSb2WrWmf7aDI458bmZQLh47lB/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_1"
+    },
+    {
+      "id": 2,
+      "title": "Asli Hip Hop",
+      "artist": "Ranveer Singh (Gully Boy)",
+      "song": "https://drive.google.com/uc?export=download&id=SONG_ID_2",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_2"
+    },
+    {
+      "id": 3,
+      "title": "Kaam 25",
+      "artist": "DIVINE",
+      "song": "https://res.cloudinary.com/dxgfwbiod/video/upload/v1761981857/Kaam_25_msumes.mp3",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_3"
+    },
+    {
+      "id": 4,
+      "title": "Jungli Sher",
+      "artist": "DIVINE",
+      "song": "https://drive.google.com/file/d/1YieqZiVNWbdYMYC4P_gSDrgy0HKOnqt2/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_4"
+    },
+    {
+      "id": 5,
+      "title": "Machayenge",
+      "artist": "Emiway Bantai",
+      "song": "https://drive.google.com/file/d/1OlMOqJUUS7m12cndRKOreXZ_O6uPMSea/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_5"
+    },
+    {
+      "id": 6,
+      "title": "Firse Machayenge",
+      "artist": "Emiway Bantai",
+      "song": "https://drive.google.com/file/d/11GlUM8I-1iWbkQO1WHz7g-ovAXBf6NT2/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_6"
+    },
+    {
+      "id": 7,
+      "title": "Naachne Ka Shaunq",
+      "artist": "Raftaar & Brodha V",
+      "song": "https://drive.google.com/uc?export=download&id=SONG_ID_7",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_7"
+    },
+    {
+      "id": 8,
+      "title": "Main Wahi Hoon",
+      "artist": "Raftaar ft. Karma",
+      "song": "https://drive.google.com/uc?export=download&id=SONG_ID_8",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_8"
+    },
+    {
+      "id": 9,
+      "title": "Vyanjan",
+      "artist": "KR$NA",
+      "song": "https://drive.google.com/uc?export=download&id=SONG_ID_9",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_9"
+    },
+    {
+      "id": 10,
+      "title": "Mantoiyat",
+      "artist": "Raftaar ft. Nawazuddin Siddiqui",
+      "song": "https://drive.google.com/uc?export=download&id=SONG_ID_10",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_10"
+    },
+    {
+      "id": 11,
+      "title": "Sher Aaya Sher",
+      "artist": "DIVINE",
+      "song": "https://drive.google.com/file/d/1Wi5h0GHCqnF6XVyw_CwTwxjU8iU2qAeT/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_11"
+    },
+    {
+      "id": 12,
+      "title": "Aafat",
+      "artist": "Naezy",
+      "song": "https://drive.google.com/file/d/190VZrRTS8LShpSJywnUD-RD7GmBGNmf1/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_12"
+    },
+    {
+      "id": 13,
+      "title": "Dilli Waali Baatcheet",
+      "artist": "Raftaar",
+      "song": "https://drive.google.com/file/d/1iT00xOTRVEpL5jnhOrhS3udpzzaDkAZ_/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_13"
+    },
+    {
+      "id": 14,
+      "title": "One Side",
+      "artist": "DIVINE",
+      "song": "https://drive.google.com/uc?export=download&id=SONG_ID_14",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_14"
+    },
+    {
+      "id": 15,
+      "title": "Boht Hard",
+      "artist": "Emiway Bantai",
+      "song": "https://drive.google.com/file/d/1P6JOeaF1xTjaG_bL8bEDO5TNuN8JmmgY/view?usp=drive_link",
+      "poster": "https://drive.google.com/uc?export=download&id=POSTER_ID_15"
+    }
+  ]
+}
