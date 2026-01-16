@@ -1,7 +1,5 @@
 # Emotion-Based Music Recommendation Platform
 
----
-
 ## Repositories
 
 - **Frontend:** https://github.com/Optimas-CSE23L197/myMusic_Frontend
